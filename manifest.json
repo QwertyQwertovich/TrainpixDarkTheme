@@ -1,0 +1,22 @@
+{
+  "manifest_version": 2,
+  "name": "Trainpix(Photo) Dark Theme",
+  "description": "Темы для trainpix.org и trainphoto.org.ua",
+  "version": "1.1",
+  "author": "Alexander Kharitonov",
+  "browser_action": {
+    "default_title": "Темы для trainpix/trainphoto",
+    "default_icon": "icon.png",
+    "default_popup": "index.html"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://trainpix.org/","https://trainphoto.org.ua/"
+      ],
+	  "css": ["css.css"]
+	  
+    }
+  ],
+  "permissions": ["activeTab"]
+}

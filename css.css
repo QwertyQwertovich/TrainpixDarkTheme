@@ -1,0 +1,205 @@
+  .p20 {
+	  background-color: #333 !important;
+  }
+  .p20a{
+	  background-color: #333 !important;
+  }
+  .p20i{
+	  background-color: #333 !important;
+  }
+  .p20p{
+	  background-color: #333 !important;
+  }
+  .pp-link{
+	  background-color: #333 !important;
+  color: #aaa !important;
+  }
+  .wtext{
+	  background-color: #333 !important;
+  color: #aaa !important;
+  }
+  .vsc-initialized {
+	  background:#222 !important;
+	  color:#bbb !important;
+  }
+  .cblock {
+	  background:#333 !important;
+  }
+  .title{
+	  background:#aaa !important;
+  }
+  .header{
+	  background:#333 !important;
+  }
+  .navtop_frame{
+	  background:#111 !important;
+  }
+    .navsel{
+	  background:#111 !important;
+  }
+  .mform{
+	  background:#111 !important;
+  }
+  h4{
+	  color:#ddd !important;
+  }
+  h21{
+	  background:#333 !important;
+	  color:#ddd !important;
+  }
+  .p0
+  {
+	  background:#333 !important;
+  }
+  .ds
+  {
+	  background:#444 !important;
+  }
+  .pg
+  {
+	  background:#444 !important;
+  }
+     .c
+  {
+	  background:#333 !important;
+  }
+   .d
+  {
+	  background:#444 !important;
+  }
+   .r
+  {
+	  background:#444 !important;
+  }
+  .rs
+  {
+	  background:#333 !important;
+  }
+  .pp-item-header
+  {
+	  background:#444 !important;
+  }
+   .sm
+  {
+	  background:#444 !important;
+  }
+   .nw
+  {
+
+	  background:#444 !important;
+  }
+   .s11
+  {
+	  background:#444 !important;
+  }
+   .s1
+  {
+	  background:#333 !important;
+  }
+  .s16
+  {
+	  background:#0062ff !important;
+  }
+  .s6
+  {
+	  background:#0062aa !important;
+  }
+  .s8
+    {
+	  background:#aa00e6 !important;
+  }
+  .s18
+    {
+	  background:#ff00e6 !important;
+  }
+  .s4
+    {
+	  background-color:#aa0008 !important;
+  }
+  .s14
+    {
+	  background-color:#ff0008 !important;
+  }
+  .s5
+    {
+	  background:#aa8000 !important;
+  }
+  .s15
+    {
+	  background:#ff8000 !important;
+  }
+    .s3
+    {
+	  background:#aaab00 !important;
+  }
+  .s13
+    {
+	  background:#fffb00 !important;
+  }
+  .cmt-subscribe{
+	  background:#444 !important;
+  }
+  ."cmt-subscribe s11"{
+	  background:#444 !important;
+  }
+  :root {
+	--theme-bg-color:           #333 !important;
+	--theme-bg-hover-color:     #fff !important;
+	--theme-fg-color:           #aaa !important;
+	--theme-link-color:         #00bf33 !important;
+	--theme-link-visited-color: #00bf33 !important; /*4e6d8c*/
+}
+#pmain {
+    background-color: #222 !important
+}
+#title_s{
+	background-color: #aaa !important
+}
+#navtop{
+	background-color: #333 !important
+}
+#navlk {
+	background-color: #333 !important
+}
+.linetable td {
+    border-top: solid 1px #111 !important;
+}
+.input{
+	    background-color:#fffff !important;
+}
+
+
+.pblock{
+	  background:#444 !important;
+	  color:#aaa !important;
+  }
+ 
+ a, a:visited {
+    color: #aaa !important;
+    text-decoration: none !important;
+}
+.menu{
+	background:#444 !important;
+}
+.fname{
+	background:#444 !important;
+}
+.pacol{
+	background:#444 !important;
+}
+.pprew{
+	background:#444 !important;
+}
+.pinfo{
+	background:#444 !important;
+}
+.fval{
+	background:#444 !important;
+}
+.mt5{
+	background:#444 !important;
+	color:#aaa !important;
+}
+.s3{
+	background-color:#f6ff00 !important;
+}
