@@ -1,5 +1,5 @@
 # TrainpixDarkTheme
-- Это расширение для браузеров на основе Chromium (Google chrome, Яндекс Браузер, Microsoft Edge и много других), добавляющее тёмную тему для сайтов trainpix.org и trainphoto.org.ua
+- Это расширение для браузеров на основе Chromium (Google chrome, Яндекс Браузер, Microsoft Edge и много других), добавляющее тёмную тему для сайтов https://trainpix.org и https://trainphoto.org.ua
 ## Установка:
 ### Простая Установка:
 1. Скачать расширение из chrome app store: <Тут будет ссылка>
