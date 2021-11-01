@@ -12,7 +12,7 @@
   "content_scripts": [
     {
       "matches": [
-        "https://trainpix.org/","https://trainphoto.org.ua/"
+        "https://trainpix.org/*","https://trainphoto.org.ua/*", "https://trainpix.org/","https://trainphoto.org.ua/"
       ],
 	  "css": ["css.css"]
 	  
