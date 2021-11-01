@@ -2,7 +2,7 @@
 - Это расширение для браузеров на основе Chromium (Google chrome, Яндекс Браузер, Microsoft Edge и много других), добавляющее тёмную тему для сайтов https://trainpix.org и https://trainphoto.org.ua
 ## Установка:
 ### Простая Установка:
-1. Скачать расширение из chrome app store: <Тут будет ссылка>
+1. Скачать расширение из chrome app store: https://chrome.google.com/webstore/detail/trainpixphoto-dark-theme/fifnefdfiflpjfggfppalcfnmjopiido
 ### Сложная установка:
 1. Скачать .zip с Расширением (Или склонировать через git)
 2. Распаковать расширение
