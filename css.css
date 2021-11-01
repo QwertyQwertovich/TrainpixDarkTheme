@@ -7,6 +7,9 @@
   .p20i{
 	  background-color: #333 !important;
   }
+  .p20k{
+	  background-color: #333 !important;
+  }
   .p20p{
 	  background-color: #333 !important;
   }
@@ -53,6 +56,7 @@
   .p0
   {
 	  background:#333 !important;
+	  background-color:#333 !important;
   }
   .ds
   {
@@ -93,11 +97,29 @@
   }
    .s11
   {
+	  background-color:#444 !important;
+	  background-color:#444 !important;
+  }
+     .wvote
+  {
 	  background:#444 !important;
+	  background-color:#444 !important;
+  }
+  .w-rating
+  {
+	  background:#444 !important;
+	  background-color:#444 !important;
+  }
+  div .comment
+  {
+	  background-color:#444 !important;
+	  background-color:#444 !important;
   }
    .s1
   {
-	  background:#333 !important;
+	  background-color:#333 !important;
+	  background-color:#444 !important;
+	  background-color:#444 !important;
   }
   .s16
   {
@@ -114,6 +136,14 @@
   .s18
     {
 	  background:#ff00e6 !important;
+  }
+  tr .s4
+    {
+	  background-color:#aa0008 !important;
+  }
+  tr .s14
+    {
+	  background-color:#ff0008 !important;
   }
   .s4
     {
